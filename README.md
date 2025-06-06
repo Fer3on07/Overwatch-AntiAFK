@@ -1,3 +1,5 @@
+
+https://github.com/user-attachments/assets/68528a7e-d4a2-4d5f-8295-9cd48132409b
 # Overwatch 2 Anti-AFK Tool
 ## Automatically Keeps Your Accounts Active In-Game
 
@@ -8,3 +10,6 @@ Note:
 The current version provides basic movement functionality.
 However, for improved realism and reduced detection, you can enhance the script by adding mouse movement (e.g., mousemove) to randomly change the point of view (POV) of each account.
 This simulates more natural player behavior and can make the tool more effective.
+
+
+Uploading 222 (1).mp4…
